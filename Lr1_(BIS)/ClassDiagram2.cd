@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lr1__BIS_.Classes.CaesarСipher">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\CaesarСipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Classes.FileWork">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAIAQAAAAAAAAAAAAAAAAEAEAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FileWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Classes.TrithemiusCipher">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\TrithemiusCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.CaesarCiperF">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIZABAiIDCKQBEAYAiAUAAGAACQAEQJRAAEAAQAoiI=</HashCode>
+      <FileName>Forms\CaesarCiperF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.TrithemiusCipherF">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAZABgoADAAQBECYEiQEAAiACKQQEBJRAAEAJQAEio=</HashCode>
+      <FileName>Forms\TrithemiusCipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.TrithemiusCipherF2">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAZBBAoADAAQBECYEiQEABiAAKQQEAJRAAEEBQAAio=</HashCode>
+      <FileName>Forms\TrithemiusCipherF2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.GammaCipherF">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIABAoIDAAQhEAZEiAEABGgAAQQEAJBAEEABQAICo=</HashCode>
+      <FileName>Forms\GammaCipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Classes.GammaCipher">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GammaCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.BookCipherF">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAZIAAoIDBAABEAYEyAAARGAACQQEApBCgEABQAAgo=</HashCode>
+      <FileName>Forms\BookCipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Classes.BookCipher">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\BookCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.DESCipherF">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgIZAJAoIDAaQBOAIAiAGAkGAACQAEUIRAAEAAQIoiI=</HashCode>
+      <FileName>Forms\DESCipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Classes.DESCipher">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\DESCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1_BIS.Classes.KnapsackCipher">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQQAAAAAAAAAIAAABAAACAAAAIAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\KnapsackCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Classes.KnapsackCipherF">
+    <Position X="3.25" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAIZAQAoIDAKQBEAYAiAEAAGEACQAEAJRAAEAAQQoiI=</HashCode>
+      <FileName>Forms\KnapsackCipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.KeyKnapsackCipherF">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAABAAIACAAAQCAAAIAEIAAgAAAQABAAA=</HashCode>
+      <FileName>Forms\KeyKnapsackCipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Classes.RSACipher">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\RSACipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.RSACipherF">
+    <Position X="8.5" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAIZAQAoIDAKADEAYAiAEAAGAICQAEAJRAgEAAQAoiI=</HashCode>
+      <FileName>Forms\RSACipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lr1__BIS_.Forms.KeyRSACipherF">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAgACAAAACCAAIgAAABEAEAQAAAEA=</HashCode>
+      <FileName>Forms\KeyRSACipherF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
